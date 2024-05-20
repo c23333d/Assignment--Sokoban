@@ -2,6 +2,9 @@
 一款推箱子游戏，使用Python语言及PyCharm软件，制作于澳门科技大学人文艺术学院游戏设计专业研究生一年级《计算机图形学及可视化技术》课程
 
 # 项目展示
+"`
+[![Demo01]([https://your-cloud-storage-url/video.png](https://1drv.ms/v/s!AhyjXRMVqx8ygSwnp_uKeoeLxwsA?e=0tShFD))%5D("C:\Users\ASUS\OneDrive\视频\Demo01.mp4")
+"`
 ![level01](https://github.com/c23333d/Assignment--Sokoban/assets/170305839/6d7b91b0-7400-4218-9090-81649f8012ad)
 
 # 项目素材
