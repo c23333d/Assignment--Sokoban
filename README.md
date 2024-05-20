@@ -18,6 +18,9 @@ https://github.com/c23333d/Assignment--Sokoban/assets/170305839/1008f694-b253-40
 ![block](https://github.com/c23333d/Assignment--Sokoban/assets/170305839/8a84fe0e-edc5-4890-a614-94d3e6c9aecd)
 ![bg](https://github.com/c23333d/Assignment--Sokoban/assets/170305839/355115ad-176a-4096-9b86-2346a09d61ef)
 
+# 游戏玩法
+把游戏中的箱子分别推到各个小金块上即可过关，本游戏共有10关。
+
 # 上传时间
 2024年5月20日
 
